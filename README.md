@@ -1,6 +1,6 @@
 # My_Hello_World
-Hello World Guest Program
-// Main() function: where the execution of program begins
+Hello World Module
+// Main() function
 int main()
 {
     // prints hello world
